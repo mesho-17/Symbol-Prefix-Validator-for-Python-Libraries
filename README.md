@@ -20,9 +20,9 @@ Symbol Check is a Python script that checks exported symbols of libraries for an
    ```shell
    python symbol_check.py
 
-The script will analyze the exported symbols of libraries and provide the following information:
+4. The script will analyze the exported symbols of libraries and provide the following information:
 
-The number of local symbols ignored
+5. The number of local symbols ignored
 Any smelly symbols found
 The total number of smelly symbols found
 If no smelly symbols are found, the script will display a success message.
