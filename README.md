@@ -1,6 +1,6 @@
 # Symbol Prefix Validator for Python Libraries
 
-# Symbol Check
+# Symbol Check 
 
 Symbol Check is a Python script that checks exported symbols of libraries for any "smelly" symbols that do not adhere to specific prefix conventions. It utilizes the `nm` command-line tool to extract symbol information from dynamic libraries and performs checks to ensure that symbols are properly prefixed.
 
