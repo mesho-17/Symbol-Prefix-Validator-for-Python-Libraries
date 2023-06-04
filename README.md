@@ -15,7 +15,7 @@ Symbol Check is a Python script that checks exported symbols of libraries for an
 
 2. Open a terminal or command prompt and navigate to the directory containing `symbol_check.py`.
 
-3. Run the script using the following command:
+3. Run the script using the following command: 
 
    ```shell
    python symbol_check.py
