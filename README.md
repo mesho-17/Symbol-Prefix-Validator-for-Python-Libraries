@@ -4,7 +4,7 @@
 
 Symbol Check is a Python script that checks exported symbols of libraries for any "smelly" symbols that do not adhere to specific prefix conventions. It utilizes the `nm` command-line tool to extract symbol information from dynamic libraries and performs checks to ensure that symbols are properly prefixed.
 
-## Requirements
+## Requirements 
 
 - Python 3.x
 - `nm` command-line tool (typically available on Unix-like systems)
